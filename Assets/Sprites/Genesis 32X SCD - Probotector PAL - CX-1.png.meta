@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: 35cde0c5258bcb6468e17a35a803d176
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3348619373480385561
+    second: Genesis 32X SCD - Probotector PAL - CX-1_0
+  - first:
+      213: -6490856761868914309
+    second: Genesis 32X SCD - Probotector PAL - CX-1_1
+  - first:
+      213: 8884839620451384606
+    second: Genesis 32X SCD - Probotector PAL - CX-1_2
+  - first:
+      213: -1008997093144081241
+    second: Genesis 32X SCD - Probotector PAL - CX-1_3
+  - first:
+      213: 2256091148843022718
+    second: Genesis 32X SCD - Probotector PAL - CX-1_4
+  - first:
+      213: -6193933009621879568
+    second: Genesis 32X SCD - Probotector PAL - CX-1_5
+  - first:
+      213: -8699734112237340436
+    second: Genesis 32X SCD - Probotector PAL - CX-1_6
+  - first:
+      213: -5905624434273972122
+    second: Genesis 32X SCD - Probotector PAL - CX-1_7
+  - first:
+      213: 2694276927698802516
+    second: Genesis 32X SCD - Probotector PAL - CX-1_8
+  - first:
+      213: 6926202989712224739
+    second: Genesis 32X SCD - Probotector PAL - CX-1_9
+  - first:
+      213: 2019799668863103436
+    second: Genesis 32X SCD - Probotector PAL - CX-1_10
+  - first:
+      213: -6733133230694875887
+    second: Genesis 32X SCD - Probotector PAL - CX-1_11
+  - first:
+      213: 2798449968953927124
+    second: Genesis 32X SCD - Probotector PAL - CX-1_12
+  - first:
+      213: 3112133939525948762
+    second: Genesis 32X SCD - Probotector PAL - CX-1_13
+  - first:
+      213: -1608653726718380274
+    second: Genesis 32X SCD - Probotector PAL - CX-1_14
+  - first:
+      213: -2039791919341013613
+    second: Genesis 32X SCD - Probotector PAL - CX-1_15
+  - first:
+      213: -7211146952587691955
+    second: Genesis 32X SCD - Probotector PAL - CX-1_16
+  - first:
+      213: 841846721385237726
+    second: Genesis 32X SCD - Probotector PAL - CX-1_17
+  - first:
+      213: -1295004318812463924
+    second: Genesis 32X SCD - Probotector PAL - CX-1_18
+  - first:
+      213: 7302701518574749096
+    second: Genesis 32X SCD - Probotector PAL - CX-1_19
+  - first:
+      213: 6537380530695009030
+    second: Genesis 32X SCD - Probotector PAL - CX-1_20
+  - first:
+      213: 7832937344248908151
+    second: Genesis 32X SCD - Probotector PAL - CX-1_21
+  - first:
+      213: -8131306478662207419
+    second: Genesis 32X SCD - Probotector PAL - CX-1_22
+  - first:
+      213: 3160038080654198302
+    second: Genesis 32X SCD - Probotector PAL - CX-1_23
+  - first:
+      213: -4066448541728562442
+    second: Genesis 32X SCD - Probotector PAL - CX-1_24
+  - first:
+      213: -5510704541225912009
+    second: Genesis 32X SCD - Probotector PAL - CX-1_25
+  - first:
+      213: -7977056751929491169
+    second: Genesis 32X SCD - Probotector PAL - CX-1_26
+  - first:
+      213: -5631176144879985157
+    second: Genesis 32X SCD - Probotector PAL - CX-1_27
+  - first:
+      213: 2351782345855375120
+    second: Genesis 32X SCD - Probotector PAL - CX-1_28
+  - first:
+      213: -9111046247835848155
+    second: Genesis 32X SCD - Probotector PAL - CX-1_29
+  - first:
+      213: -631486323842093065
+    second: Genesis 32X SCD - Probotector PAL - CX-1_30
+  - first:
+      213: -87567626519923021
+    second: Genesis 32X SCD - Probotector PAL - CX-1_31
+  - first:
+      213: -3254514756821872523
+    second: Genesis 32X SCD - Probotector PAL - CX-1_32
+  - first:
+      213: 3858108159124190078
+    second: Genesis 32X SCD - Probotector PAL - CX-1_33
+  - first:
+      213: 1640694476497823195
+    second: Genesis 32X SCD - Probotector PAL - CX-1_34
+  - first:
+      213: 573138999316480130
+    second: Genesis 32X SCD - Probotector PAL - CX-1_35
+  - first:
+      213: -5344567864931386313
+    second: Genesis 32X SCD - Probotector PAL - CX-1_36
+  - first:
+      213: 3410671668339314552
+    second: Genesis 32X SCD - Probotector PAL - CX-1_37
+  - first:
+      213: -572925062274348226
+    second: Genesis 32X SCD - Probotector PAL - CX-1_38
+  - first:
+      213: -5858327630928830173
+    second: Genesis 32X SCD - Probotector PAL - CX-1_39
+  - first:
+      213: -7233220352726924860
+    second: Genesis 32X SCD - Probotector PAL - CX-1_40
+  - first:
+      213: 351493233842118243
+    second: Genesis 32X SCD - Probotector PAL - CX-1_41
+  - first:
+      213: 8985770304438674158
+    second: Genesis 32X SCD - Probotector PAL - CX-1_42
+  - first:
+      213: -3940405930345868706
+    second: Genesis 32X SCD - Probotector PAL - CX-1_43
+  - first:
+      213: -2085959569057499410
+    second: Genesis 32X SCD - Probotector PAL - CX-1_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 379
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3e5bbeb605781d0800000000000000
+      internalID: -3348619373480385561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 374
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b717cd44a28dbe5a0800000000000000
+      internalID: -6490856761868914309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 374
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d32579f8a4d4b70800000000000000
+      internalID: 8884839620451384606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 374
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7accebb5d725ff1f0800000000000000
+      internalID: -1008997093144081241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 374
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79f0b352fe3f4f10800000000000000
+      internalID: 2256091148843022718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 327
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4fbee9ebaba0aa0800000000000000
+      internalID: -6193933009621879568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_6
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 328
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8beb70be5544780800000000000000
+      internalID: -8699734112237340436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 328
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6609b3acdd10b0ea0800000000000000
+      internalID: -5905624434273972122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 329
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4579402479ef36520800000000000000
+      internalID: 2694276927698802516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 328
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1bb0c2ce0de1060800000000000000
+      internalID: 6926202989712224739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 328
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc17904f815c70c10800000000000000
+      internalID: 2019799668863103436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 272
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dbd07100b1f82a0800000000000000
+      internalID: -6733133230694875887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 274
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5a3318b6716d620800000000000000
+      internalID: 2798449968953927124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 276
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5591e64455803b20800000000000000
+      internalID: 3112133939525948762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 276
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07b75465f9eca9e0800000000000000
+      internalID: -1608653726718380274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 276
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39577ff7e0431b3e0800000000000000
+      internalID: -2039791919341013613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 278
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48bedb8d0cdceb90800000000000000
+      internalID: -7211146952587691955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 261
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc8e7ff127deab00800000000000000
+      internalID: 841846721385237726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 212
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc169aee68370ee0800000000000000
+      internalID: -1295004318812463924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 212
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a58a5bf658685560800000000000000
+      internalID: 7302701518574749096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 213
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60371a5c4f079ba50800000000000000
+      internalID: 6537380530695009030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 215
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77909df830f24bc60800000000000000
+      internalID: 7832937344248908151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 213
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548b183d6dbc72f80800000000000000
+      internalID: -8131306478662207419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 216
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16c91a44e5badb20800000000000000
+      internalID: 3160038080654198302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 178
+        width: 53
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f22dd4a8921197c0800000000000000
+      internalID: -4066448541728562442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_25
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 178
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739f81eaa6b0683b0800000000000000
+      internalID: -5510704541225912009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 179
+        width: 64
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f118c1cf52dcb4190800000000000000
+      internalID: -7977056751929491169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 181
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd56c8a12b0ad1b0800000000000000
+      internalID: -5631176144879985157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 151
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0179eb1559533a020800000000000000
+      internalID: 2351782345855375120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_29
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 97
+        width: 105
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522b691c5bf0f8180800000000000000
+      internalID: -9111046247835848155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 116
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffefd2c8828c37f0800000000000000
+      internalID: -631486323842093065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 117
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6b47725b5e8cef0800000000000000
+      internalID: -87567626519923021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 117
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5709d536214a5d2d0800000000000000
+      internalID: -3254514756821872523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_33
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 119
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7332a9fde0ca8530800000000000000
+      internalID: 3858108159124190078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 50
+        width: 29
+        height: 54
+      alignment: 9
+      pivot: {x: 0.35, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd529900feae4c610800000000000000
+      internalID: 1640694476497823195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 51
+        width: 29
+        height: 61
+      alignment: 9
+      pivot: {x: 0.35, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2808e2d12e234f700800000000000000
+      internalID: 573138999316480130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 51
+        width: 29
+        height: 62
+      alignment: 9
+      pivot: {x: 0.35, y: 0.315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cfbc4f7d744d5b0800000000000000
+      internalID: -5344567864931386313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_37
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 50
+        width: 29
+        height: 58
+      alignment: 9
+      pivot: {x: 0.35, y: 0.335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8ad4dfc3255f20800000000000000
+      internalID: 3410671668339314552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_38
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 50
+        width: 29
+        height: 62
+      alignment: 9
+      pivot: {x: 0.35, y: 0.315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b083cf0bf8c08f0800000000000000
+      internalID: -572925062274348226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_39
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321a1a4fe0a03bea0800000000000000
+      internalID: -5858327630928830173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1069599607e9b90800000000000000
+      internalID: -7233220352726924860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 10
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36edc10eb31c0e400800000000000000
+      internalID: 351493233842118243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_42
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 10
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee22255bb7ed3bc70800000000000000
+      internalID: 8985770304438674158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_43
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 13
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5254eafeadd059c0800000000000000
+      internalID: -3940405930345868706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Probotector PAL - CX-1_44
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 15
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee63086e2de2d03e0800000000000000
+      internalID: -2085959569057499410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

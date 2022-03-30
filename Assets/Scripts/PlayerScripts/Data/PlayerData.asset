@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9918521a96a0286429d0508e3d2c84df, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  movementVelocity: 15
+  shootAgainTime: 0.01
+  deadGundam: {fileID: 1361303322282679948, guid: f3224d2321895af499044cdee54d4f26,
+    type: 3}
